@@ -1,0 +1,5 @@
+# 🏛️ AI Expert Program - Technical Reports Archive
+> ** 2026년 AI 데이터 분석 전문인재 양성과정 과제 제출 저장소 **
+
+## 📂 Overview
+본 저장소는 **2026년 AI 데이터 분석 전문인재 양성과정 과제물 관리 저장소 입니다.
